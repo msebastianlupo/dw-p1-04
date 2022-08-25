@@ -23,7 +23,7 @@ Los tres valores ingresados deben ser validados según corresponda
 - Modificar este `README.md` con este contenido:
 
 ```markdown
-### Alumno: godoy matías
+### Alumno: godoy matias
 
 #### Comision: c
 ```
